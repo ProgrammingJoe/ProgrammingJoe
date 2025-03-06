@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm an independent software engineer who primarily builds websites and web applications.
+
+Hire me to build your website or app!
+
+Currently
+- Working as an [Independent Developer](https://joeczepil.com/)
+- Building and managing collaborative storytelling platform [Bard](https://site.bard.art/)
+- Building existential life calendar [Cronicle](https://cronicle.me/) *Mobile app coming soon*
+
 <!--
 **ProgrammingJoe/ProgrammingJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
