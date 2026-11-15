@@ -3,7 +3,7 @@
 I'm a product builder, woodworker, and urbanist.
 
 Currently
-- Working as an [Independent Developer](https://joeczepil.com/)
+- [Doing things](https://joeczepil.com/)
 - Building and managing collaborative storytelling platform [Bard](https://site.bard.art/)
 - Building existential life calendar [Cronicle](https://cronicle.me/)
 
